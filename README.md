@@ -10,4 +10,4 @@ _More details can be found in the pre-print version shared here._
 
 
 # Publication
-Anisuzzaman, D. M., Yash Patel, Behrouz Rostami, Jeffrey Niezgoda, Sandeep Gopalakrishnan, and Zeyun Yu. "Multi-modal Wound Classification using Wound Image and Location by Deep Neural Network." arXiv preprint arXiv:2109.06969 (2021).
+D.M. Anisuzzaman, Y. Patel, B. Rostami, J. Niezgoda, S. Gopalakrishnan & Z. Yu. Multi-modal wound classification using wound image and location by deep neural network. Sci Rep 12, 20057 (2022). https://doi.org/10.1038/s41598-022-21813-0
