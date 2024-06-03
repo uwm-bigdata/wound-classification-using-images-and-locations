@@ -4,7 +4,7 @@
 
 **Pre-Processing:**
  1. The wound ROIs are cropped using our developed localizer (https://ieeexplore.ieee.org/abstract/document/9785640).
- 2. Wound professionals annotate the corresponding ROI locations with detailed location information using our custom body map.
+ 2. Wound professionals annotate the corresponding ROI locations with detailed location information using our custom body map (Download BodyMap.zip).
 
 _Please read the following articles for more details._
 
