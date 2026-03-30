@@ -1,3 +1,8 @@
+# Call For Papers: Special Issue on Recent Advances in Artificial Intelligence for Wound Assessment
+In collaboration with **Bioengineering**, an open access journal by **MDPI**, we are soliciting papers in various AI technologies for wound assessment. More detail can be found below or at the journal's [webpage](https://www.mdpi.com/journal/bioengineering/special_issues/HFOU68406T).
+
+![Call For Papers](https://uwm-bigdata.github.io/CFP-Poster.jpg)
+
 # Wound classification using images and locations
 
 **Dataset information:** AZH dataset is collected over a two-year clinical period at the AZH Wound and Vascular Center in Milwaukee, Wisconsin. The dataset includes 730 wound images in .jpg format. The images are of various sizes, where the width ranging from 320 to 700 pixels and the height ranging from 240 to 525 pixels. These images contain four different wound types: venous, diabetic, pressure, and surgical. iPad Pro (software version 13.4.1) and a Canon SX 620 HS digital camera are used to capture the images, and labeling is done by a wound specialist from the AZH Wound and Vascular Center. For most images in our dataset, each image is taken from a separate patient. But there are a few cases where multiple photos were taken from the same patient at different body sites or various healing stages. For the latter case, the wound shapes are different, so they are considered separate images.
